@@ -1,0 +1,12 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_12-01-12-708f26e0baa4ca12615fcc936b9c873c/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>Complete the script so that it removes duplicate items from the list&nbsp;<code>a</code>&nbsp;.<br></p><p><strong>Answer 1:&nbsp;</strong></p><pre class="prettyprint linenums">a = ["1", 1, "1", 2]
+a = list(set(a))
+print(a)
+</pre><p><strong>Explanation 1:&nbsp;</strong></p><p>We used a <code>set </code>&nbsp;function to convert the list to a set that would intermediately&nbsp;produce&nbsp;<code>{'1', 1, 2}</code>&nbsp; with no duplicates because set objects&nbsp;cannot contain duplicates. Then using <code>list </code>&nbsp;we converted the set back to a list. The drawback here is that the original order of the items is lost. If you need to preserve the order, you may want to use the solution in&nbsp;<strong>Answer 2</strong> below.</p><p><strong>Answer 2:</strong></p><pre class="prettyprint linenums">from collections import OrderedDict
+a = ["1", 1, "1", 2]
+a = list(OrderedDict.fromkeys(a))
+print(a)
+</pre><p><strong>Explanation 2:</strong></p><p>Ordered dictionaries are another data type in Python that, unlike sets and normal dictionaries they preserve the order of the items. Here&nbsp;<code>OrderedDict.fromkeys(a)</code>&nbsp; would produce a <code>OrderedDict</code>&nbsp; like&nbsp;<code>[('1', None), (1, None), (2, None)]</code>&nbsp;. Then we would convert that <code>OrderedDict </code>&nbsp;to a list.</p><p><strong>Answer 3:</strong></p><pre class="prettyprint linenums">a = ["1", 1, "1", 2]
+b = []
+for i in a:
+    if i not in b:
+        b.append(i)</pre><p><strong>Explanation 3:</strong></p><p>This is another solution that would preserve the original order. We go through all the original list items and append them to the new list if they have not been appended before. The downside of this is that the operation can take a lot of time if the list as large as we need to access both lists and perform a conditional in each iteration.</p>

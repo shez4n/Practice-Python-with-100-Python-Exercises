@@ -1,0 +1,290 @@
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-004-Getting-Help.html">01-004-Getting-Help</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-005-Exercise-1---Variable-Updating.html">01-005-Exercise-1---Variable-Updating</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-006-Exercise-1-Solution.html">01-006-Exercise-1-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-007-Exercise-2---Naming-Rules.html">01-007-Exercise-2---Naming-Rules</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-008-Exercise-2-Solution.html">01-008-Exercise-2-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-009-Tips.html">01-009-Tips</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-010-Exercise-3---Compare-vs-Assign.html">01-010-Exercise-3---Compare-vs-Assign</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-012-Exercise-4---TypeError.html">01-012-Exercise-4---TypeError</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-013-Exercise-4-Solution.html">01-013-Exercise-4-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-014-Exercise-5---Sequence-Indexing.html">01-014-Exercise-5---Sequence-Indexing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-015-Exercise-5-Solution.html">01-015-Exercise-5-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-016-Exercise-6---Sequence-Slicing.html">01-016-Exercise-6---Sequence-Slicing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-017-Exercise-6-Solution.html">01-017-Exercise-6-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-018-Exercise-7---Sequence-Slicing.html">01-018-Exercise-7---Sequence-Slicing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-019-Exercise-7-Solution.html">01-019-Exercise-7-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-020-Exercise-8---Negative-Indexing.html">01-020-Exercise-8---Negative-Indexing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-021-Exercise-8-Solution.html">01-021-Exercise-8-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-022-Exercise-9---Negative-Slicing.html">01-022-Exercise-9---Negative-Slicing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-023-Exercise-9-Solution.html">01-023-Exercise-9-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-024-Exercise-10---Sequence-Item-Picking.html">01-024-Exercise-10---Sequence-Item-Picking</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-025-Exercise-10-Solution.html">01-025-Exercise-10-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-026-Continuing.html">01-026-Continuing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-028-Exercise-11-Solution.html">01-028-Exercise-11-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-029-Exercise-12---More-Ranges.html">01-029-Exercise-12---More-Ranges</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-031-Exercise-13---Ranges-of-Strings.html">01-031-Exercise-13---Ranges-of-Strings</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-033-Exercise-14---Removing-Duplicates.html">01-033-Exercise-14---Removing-Duplicates</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-034-Exercise-14-Solution.html">01-034-Exercise-14-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-035-Exercise-15---Simple-Dictionary.html">01-035-Exercise-15---Simple-Dictionary</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-036-Exercise-15-Solution.html">01-036-Exercise-15-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-037-Exercise-16---Accessing-Dictionary-Items.html">01-037-Exercise-16---Accessing-Dictionary-Items</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-038-Exercise-16-Solution.html">01-038-Exercise-16-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-039-Exercise-17---Dictionary-Items-Sum-Up.html">01-039-Exercise-17---Dictionary-Items-Sum-Up</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-040-Exercise-17-Solution.html">01-040-Exercise-17-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-042-Exercise-18-Solution.html">01-042-Exercise-18-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-043-Exercise-19---Add-Dictionary-Key.html">01-043-Exercise-19---Add-Dictionary-Key</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-044-Exercise-19-Solution.html">01-044-Exercise-19-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-045-Exercise-20---Apply-Function-to-Dictionary-Items.html">01-045-Exercise-20---Apply-Function-to-Dictionary-Items</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-046-Exercise-20-Solution.html">01-046-Exercise-20-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-047-Exercise-21---Dictionary-Filtering.html">01-047-Exercise-21---Dictionary-Filtering</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-048-Exercise-21-Solution.html">01-048-Exercise-21-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-050-Exercise-22-Solution.html">01-050-Exercise-22-Solution</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-051-Exercise-23---Multilevel-Indexing.html">01-051-Exercise-23---Multilevel-Indexing</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-053-Exercise-24---Iterate-Dictionary.html">01-053-Exercise-24---Iterate-Dictionary</a></td></tr>
+<tr>
+<td><a href="./01-Exercise-01-to-25/01-056-Exercise-25-Solution.html">01-056-Exercise-25-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-001-Exercise-26---Print-Range">02-001-Exercise-26---Print-Range</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-002-Exercise-26-Solution">02-002-Exercise-26-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-003-Exercise-27---Acceleration-Calculator">02-003-Exercise-27---Acceleration-Calculator</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-004-Exercise-27-Solution">02-004-Exercise-27-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-005-Exercise-28---TypeError">02-005-Exercise-28---TypeError</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-006-Exercise-28-Solution">02-006-Exercise-28-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-007-Exercise-29---Liquid-Volume-Calculator">02-007-Exercise-29---Liquid-Volume-Calculator</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-009-Exercise-30---Arguments">02-009-Exercise-30---Arguments</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-011-Exercise-31---Function-Blueprint">02-011-Exercise-31---Function-Blueprint</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-013-Exercise-32---Global-Variables">02-013-Exercise-32---Global-Variables</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-014-Exercise-32-Solution">02-014-Exercise-32-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-015-Exercise-33---Local-Variable">02-015-Exercise-33---Local-Variable</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-017-Exercise-34---Local-Vs.-Global-Variables">02-017-Exercise-34---Local-Vs.-Global-Variables</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-018-Exercise-34-Solution">02-018-Exercise-34-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-019-Exercise-35---String-Splitter">02-019-Exercise-35---String-Splitter</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-020-Exercise-35-Solution">02-020-Exercise-35-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-021-Exercise-36---Word-Counter">02-021-Exercise-36---Word-Counter</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-022-Exercise-36-Solution">02-022-Exercise-36-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-023-Exercise-37---Advanced-Word-Counter">02-023-Exercise-37---Advanced-Word-Counter</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-024-Exercise-37-Solution">02-024-Exercise-37-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-025-Exercise-38---NameError">02-025-Exercise-38---NameError</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-026-Exercise-38-Solution">02-026-Exercise-38-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-027-Exercise-39---AttributeError">02-027-Exercise-39---AttributeError</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-029-Exercise-40---TypeError">02-029-Exercise-40---TypeError</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-030-Exercise-40-Solution">02-030-Exercise-40-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-031-Exercise-41---Letters-in-File">02-031-Exercise-41---Letters-in-File</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-032-Exercise-41-Solution">02-032-Exercise-41-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-033-Exercise-42---Iterating-Multiple-Sequences">02-033-Exercise-42---Iterating-Multiple-Sequences</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-035-Exercise-43---Letters-Two-by-Two">02-035-Exercise-43---Letters-Two-by-Two</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-037-Exercise-44---Letters-Three-by-Three">02-037-Exercise-44---Letters-Three-by-Three</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-038-Exercise-44-Solution">02-038-Exercise-44-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-039-Exercise-45---One-File-per-Letter">02-039-Exercise-45---One-File-per-Letter</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-044-Exercise-47-Solution">02-044-Exercise-47-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-045-Exercise-48---IndentationError">02-045-Exercise-48---IndentationError</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-046-Exercise-48-Solution">02-046-Exercise-48-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-047-Exercise-49---Pass">02-047-Exercise-49---Pass</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-048-Exercise-49-Solution">02-048-Exercise-49-Solution</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-049-Exercise-50---Text-Input">02-049-Exercise-50---Text-Input</a></td></tr>
+<tr>
+<td><a href="./02-Exercise-26-to-50/02-050-Exercise-50-Solution">02-050-Exercise-50-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-001-Exercise-51---EOF.html">03-001-Exercise-51---EOF</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-002-Exercise-51-Solution.html">03-002-Exercise-51-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-003-Exercise-52---String-Formatting.html">03-003-Exercise-52---String-Formatting</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-004-Exercise-52-Solution.html">03-004-Exercise-52-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-005-Exercise-53---Multilevel-Dictionary.html">03-005-Exercise-53---Multilevel-Dictionary</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-006-Exercise-53-Solution.html">03-006-Exercise-53-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-007-Exercise-54---Modifying-Multilevel-Dictionaries.html">03-007-Exercise-54---Modifying-Multilevel-Dictionaries</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-008-Exercise-54-Solution.html">03-008-Exercise-54-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-009-Exercise-55---Adding-to-Multilevel-Dictionaries.html">03-009-Exercise-55---Adding-to-Multilevel-Dictionaries</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-010-Exercise-55-Solution.html">03-010-Exercise-55-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-011-Exercise-56---Dictionary-to-JSON.html">03-011-Exercise-56---Dictionary-to-JSON</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-012-Exercise-56-Solution.html">03-012-Exercise-56-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-013-Exercise-57---JSON-to-Dictionary.html">03-013-Exercise-57---JSON-to-Dictionary</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-014-Exercise-57-Solution.html">03-014-Exercise-57-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-015-Exercise-58---Add-to-JSON.html">03-015-Exercise-58---Add-to-JSON</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-017-Exercise-59---Enumerator.html">03-017-Exercise-59---Enumerator</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-018-Exercise-59-Solution.html">03-018-Exercise-59-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-021-Exercise-61---Timed-Printer.html">03-021-Exercise-61---Timed-Printer</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-022-Exercise-61-Solution.html">03-022-Exercise-61-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-023-Exercise-62---Progressive-Timed-Printer.html">03-023-Exercise-62---Progressive-Timed-Printer</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-025-Exercise-63---Progressive-Time-Printer-with-Threshold.html">03-025-Exercise-63---Progressive-Time-Printer-with-Threshold</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-031-Exercise-66---Translator.html">03-031-Exercise-66---Translator</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-032-Exercise-66-Solution.html">03-032-Exercise-66-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-033-Exercise-67---Advanced-Translator.html">03-033-Exercise-67---Advanced-Translator</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-035-Exercise-68---User-Friendly-Translator.html">03-035-Exercise-68---User-Friendly-Translator</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-036-Exercise-68-Solution.html">03-036-Exercise-68-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-037-Exercise-69---Requests.html">03-037-Exercise-69---Requests</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-038-Exercise-69-Solution.html">03-038-Exercise-69-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-039-Exercise-70---File-from-URL.html">03-039-Exercise-70---File-from-URL</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-040-Exercise-70-Solution.html">03-040-Exercise-70-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-041-Exercise-71---Letter-Counter.html">03-041-Exercise-71---Letter-Counter</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-042-Exercise-71-Solution.html">03-042-Exercise-71-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-044-Exercise-72-Solution.html">03-044-Exercise-72-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-046-Exercise-73-Solution.html">03-046-Exercise-73-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-047-Exercise-74---File-Concatenator.html">03-047-Exercise-74---File-Concatenator</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-048-Exercise-74-Solution.html">03-048-Exercise-74-Solution</a></td></tr>
+<tr>
+<td><a href="./03-Exercise-51-to-75/03-050-Exercise-75-Solution.html">03-050-Exercise-75-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-002-Exercise-76-Solution.html">04-002-Exercise-76-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-003-Exercise-77---Year-of-Birth-Calculator.html">04-003-Exercise-77---Year-of-Birth-Calculator</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-004-Exercise-77-Solution.html">04-004-Exercise-77-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-006-Exercise-78-Solution.html">04-006-Exercise-78-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-008-Exercise-79-Solution.html">04-008-Exercise-79-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-010-Exercise-80-Solution.html">04-010-Exercise-80-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-013-Exercise-82---Astronomy.html">04-013-Exercise-82---Astronomy</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-014-Exercise-82-Solution.html">04-014-Exercise-82-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-015-Exercise-83---Monitor-Size-Detector.html">04-015-Exercise-83---Monitor-Size-Detector</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-016-Exercise-83-Solution.html">04-016-Exercise-83-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-019-Exercise-85---Data-Cleaner.html">04-019-Exercise-85---Data-Cleaner</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-021-Exercise-86---Data-Checker.html">04-021-Exercise-86---Data-Checker</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-022-Exercise-86-Solution.html">04-022-Exercise-86-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-025-Exercise-88---Data-Filter.html">04-025-Exercise-88---Data-Filter</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-026-Exercise-88-Solution.html">04-026-Exercise-88-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-033-Exercise-92---File-Counter.html">04-033-Exercise-92---File-Counter</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-034-Exercise-92-Solution.html">04-034-Exercise-92-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-035-Exercise-93---Recursive-File-Counter.html">04-035-Exercise-93---Recursive-File-Counter</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-036-Exercise-93-Solution.html">04-036-Exercise-93-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-037-Exercise-94---URL-Cleaner.html">04-037-Exercise-94---URL-Cleaner</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-040-Exercise-95-Solution.html">04-040-Exercise-95-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-046-Exercise-98-Solution.html">04-046-Exercise-98-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-050-Exercise-100-Solution.html">04-050-Exercise-100-Solution</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-051-Your-Python-Skill-Level.html">04-051-Your-Python-Skill-Level</a></td></tr>
+<tr>
+<td><a href="./04-Exercise-76-to-100/04-052-Bonus-Lecture.html">04-052-Bonus-Lecture</a></td></tr>

@@ -1,0 +1,4 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_12-17-17-7e6a7fd9dfdad9f3b9a553d2b53c38d8/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>Filter the dictionary by removing all items with a value of greater than 1.</p><pre class="prettyprint linenums">d = {"a": 1, "b": 2, "c": 3}</pre><p><strong>Answer:&nbsp;</strong></p><pre class="prettyprint linenums">d = {"a": 1, "b": 2, "c": 3}
+d = dict((key, value) for key, value in d.items() if value &lt;= 1)
+print(d)
+</pre><p><strong>Explanation:&nbsp;</strong></p><p>Here we're using a dictionary comprehension.&nbsp;The comprehension is the expression inside&nbsp;<code>dict()</code>&nbsp;. The comprehension iterates through the existing dictionary items, and if an item is less or equal to 1, the item is added to a new dict. This new dict is assigned to the existing variable <code>d</code>&nbsp; , so we end up with a filtered dictionary in <code>d</code>.</p>

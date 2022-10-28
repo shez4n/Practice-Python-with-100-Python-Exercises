@@ -1,0 +1,9 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2016-12-26_11-15-26-458f191c316a5ae62277f661ec939d1f/4%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>Create a script that uses the attached&nbsp;<em>countries_by_area.txt</em> &nbsp;file as a data source&nbsp;and prints out the top 5 most densely populated countries.</p><p><strong>Answer:&nbsp;</strong><br></p><pre class="prettyprint linenums">import pandas
+
+data = pandas.read_csv("countries_by_area.txt")
+data["density"] = data["population_2013"] / data["area_sqkm"]
+data = data.sort_values(by="density", ascending=False)
+
+for index, row in data[:5].iterrows():
+    print(row["country"])
+</pre><p><strong>Explanation</strong>:</p><p>We're using pandas to load the data as a dataframe and then calculate a density column in line 4. Then we use <code>sort_values</code>&nbsp; to sort the data by density in descending order. Lastly, in the last two lines, we access the first 5 rows of the dataframe and iterate using <code>iterrows</code>&nbsp;.</p>

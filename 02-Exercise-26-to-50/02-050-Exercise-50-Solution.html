@@ -1,0 +1,10 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_13-19-17-801b43992994513d329acbb75da256cb/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>The code produces an error. Please understand the error and try to fix it</p><pre class="prettyprint linenums">age = input("What's your age? ")
+age_last_year = age - 1
+print("Last year you were %s." % age_last_year)</pre><p><strong>Answer 1:&nbsp;</strong>
+</p><pre class="prettyprint linenums">age = int(input("What's your age? "))
+age_last_year = age - 1
+print("Last year you were %s." % age_last_year)
+</pre><p><strong>Explanation 1</strong>:</p><p>As you can&nbsp;see, we applied an <code>int </code>&nbsp;function to the <code>input </code>&nbsp;function. That converts user input to an integer right away.</p><p><strong>Answer 2:&nbsp;</strong></p><pre class="prettyprint linenums">age = input("What's your age? ")
+age_last_year = int(age) - 1
+print("Last year you were %s." % age_last_year)
+</pre><p><strong>Explanation 2</strong>:</p><p>In this alternative solution, we applied the <code>int </code>&nbsp;function in the line where the math operation occurs. This could be useful if you intend to use the user input value as a string in other parts of your script, so you don't want to convert it to an integer directly.</p>

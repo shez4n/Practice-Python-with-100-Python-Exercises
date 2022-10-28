@@ -1,0 +1,10 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_12-49-24-9e4c128f0b6b7da1fcddbc6f6bcab07c/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>The following script throws a <code>NameError</code>&nbsp; in the last line saying that <code>c</code>&nbsp; is not defined. Please fix the <strong>function</strong> so that there is no error and the last line is able to print out the value of <code>c</code>&nbsp; (i.e. <code>1</code>&nbsp;).</p><pre class="prettyprint linenums">def foo(): 
+    c = 1 
+    return c 
+foo() 
+print(c)</pre><p><strong>Answer:&nbsp;</strong><br></p><pre class="prettyprint linenums">def foo():
+    global c
+    c = 1 
+    return c 
+foo() 
+print(c)</pre><p><strong>Explanation</strong>:</p><p>Adding <code>global c</code>&nbsp; fixes the code. That line makes available name <code>c</code>&nbsp; in the global namespace. Therefore,&nbsp; <code>print</code> can access the variable <code>c</code>&nbsp;.</p>

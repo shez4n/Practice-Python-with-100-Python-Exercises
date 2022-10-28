@@ -1,0 +1,6 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_13-06-39-031b8150504251a258ff70be2db5b30a/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>Create a script that generates a text&nbsp;file with all English letters inside it, one letter per line.</p><p><strong>Answer:&nbsp;</strong></p><pre class="prettyprint linenums">import string
+
+with open("letters.txt", "w") as file:
+    for letter in string.ascii_lowercase:
+        file.write(letter + "\n")
+</pre><p><strong>Explanation</strong>:</p><p>The <code>ascii_lowercase </code>&nbsp; property&nbsp;of the <code>string </code>&nbsp;module is quite helpful here to generate a string of all letters. Then we create a file, and while the file is open, we iterate through the string and apply the write method in each iteration to write the letters in the text file. We are also&nbsp;appending <code>\n</code>&nbsp; to each letter, which is a special character that creates break lines. That makes sure to separate the letters in different lines.</p>

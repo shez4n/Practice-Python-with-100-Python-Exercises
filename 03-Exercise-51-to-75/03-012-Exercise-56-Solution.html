@@ -1,0 +1,15 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_13-31-19-8830a7674a26baa6f23b164ef2b67ec2/3%20points.png"></figure><p><strong>Exercise for reference</strong>:&nbsp;</p><p>Store the dictionary in a json file.</p><pre class="prettyprint linenums">d = {"employees":[{"firstName": "John", "lastName": "Doe"},
+                {"firstName": "Anna", "lastName": "Smith"},
+                {"firstName": "Peter", "lastName": "Jones"}],
+"owners":[{"firstName": "Jack", "lastName": "Petter"},
+          {"firstName": "Jessy", "lastName": "Petter"}]}</pre><p><strong>Answer:&nbsp;</strong><br></p><pre class="prettyprint linenums">import json
+
+d = {"employees":[{"firstName": "John", "lastName": "Doe"},
+                {"firstName": "Anna", "lastName": "Smith"},
+                {"firstName": "Peter", "lastName": "Jones"}],
+"owners":[{"firstName": "Jack", "lastName": "Petter"},
+          {"firstName": "Jessy", "lastName": "Petter"}]}
+
+with open("company1.json", "w") as file:
+    json.dump(d, file, indent=4)
+</pre><p><strong>Explanation</strong>:</p><p>As you can see, we created the json file using the standard&nbsp;file handling method, but then we used <code>json.dump</code>&nbsp; which makes it easy to write the dictionary content to the file. The argument <code>indent=4</code>&nbsp; will create&nbsp;4&nbsp;white spaces to indent&nbsp;the different levels of the dictionary items.</p>

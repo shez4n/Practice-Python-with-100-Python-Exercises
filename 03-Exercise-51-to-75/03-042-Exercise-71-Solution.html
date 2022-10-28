@@ -1,0 +1,9 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_14-39-09-e5784fe3e00409826c05d6e4e3563a47/3%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong><br></p><p>Count the number of characters in this text file:&nbsp;<a href="http://www.pythonhow.com/data/universe.txt" rel="noopener noreferrer" target="_blank">http://www.pythonhow.com/data/universe.txt</a>
+</p><p><strong>Answer:&nbsp;</strong></p><pre class="prettyprint linenums">import requests
+
+response = requests.get("http://www.pythonhow.com/data/universe.txt")
+text = response.text
+count_a = text.count("a")
+print(count_a)
+</pre><p><strong>Explanation</strong>:
+</p><p>This is like the previous exercise. We're simply applying the <code>count </code>&nbsp;method here to the loaded string.</p>

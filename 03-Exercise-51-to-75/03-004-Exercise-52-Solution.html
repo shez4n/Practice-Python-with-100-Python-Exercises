@@ -1,0 +1,6 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_13-26-18-80504fdd7eeaa20ac37040cc0c49c912/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>The code is supposed to ask the user to enter their name and surname, and then it&nbsp;prints out those user submitted values. &nbsp;Instead, the code throws a TypeError. Please fix it so that the expected output is printed out.</p><pre class="prettyprint linenums">firstname = input("Enter first name: ")
+secondname = input("Enter second name: ")
+print("Your first name is %s and your second name is %s" % firstname, secondname)</pre><p><strong>Answer:&nbsp;</strong><br></p><pre class="prettyprint linenums">firstname = input("Enter first name: ")
+secondname = input("Enter second name: ")
+print("Your first name is %s and your second name is %s" % (firstname, secondname))
+</pre><p><strong>Explanation</strong>:</p><p>Each of the <code>%s</code>&nbsp; placeholders expect one value after <code>%</code>&nbsp; to be replaced with, but you need to pass these values inside a tuple. So, putting variables <code>firstname </code>&nbsp;and <code>secondname </code>&nbsp;inside a tuple fixes the code.</p>

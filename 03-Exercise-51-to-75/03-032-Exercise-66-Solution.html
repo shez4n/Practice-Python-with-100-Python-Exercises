@@ -1,0 +1,7 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2017-01-03_14-29-20-dc877c34ca6cb8b6cf9b6808830d4df9/2%20points.png"></figure><p><strong>Exercise for reference:&nbsp;</strong></p><p>Create an English to Portuguese translation&nbsp;program.</p><p>The program&nbsp;takes a word from the&nbsp;user as input&nbsp;and translates it&nbsp;using the following dictionary as a vocabulary&nbsp;source.</p><p><strong>Answer:&nbsp;</strong></p><pre class="prettyprint linenums">d = dict(weather = "clima", earth = "terra", rain = "chuva")
+def vocabulary(word):
+    return d[word]
+
+word = input("Enter word: ")
+print(vocabulary(word))
+</pre><p><strong>Explanation</strong>:</p><p>It's good to create a function as the above code shows&nbsp;so that the code is more organized in case you need to expand it&nbsp;and add more features&nbsp;later.&nbsp;</p><p>The function gets the word string from the <code>input</code>&nbsp; function,&nbsp;queries the dictionary and prints out the result. Of course, we are forced to use only the words we have in the dictionary. If you want to make this a more real-life translator, you would need a complete dictionary, and you would also want to store it in a file instead of keeping it inside the script.&nbsp;</p>

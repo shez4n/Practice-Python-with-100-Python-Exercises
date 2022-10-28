@@ -1,0 +1,9 @@
+<figure><img src="https://img-c.udemycdn.com/redactor/2016-12-22_21-52-35-6292fdfa404ea82a55ec53306b749283/Easy.png"></figure><p><strong>Question</strong>: Please create an empty file (manually as you normally create Python files) and name it <code>requests.py</code>&nbsp;. Make sure the file has that name exactly.<br></p><p>Then paste the following code into the file:</p><pre class="prettyprint linenums">import requests
+
+headers = {'User-agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0'}
+r = requests.get("http://www.pythonhow.com", headers = headers)
+print(r.text[:100])
+</pre><p>Executing the script will throw an error. Please fix something to make the program print out the expected output. You should not modify the code itself, but something else.</p><p><strong>Expected output:&nbsp;</strong></p><pre class="prettyprint linenums">&lt;!DOCTYPE html&gt;
+&lt;!--[if IE 7]&gt;
+&lt;html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#"&gt;
+</pre><p><br></p><figure><img src="https://img-c.udemycdn.com/redactor/2016-12-22_21-52-51-f5c34714d4c40faaa04b0ff000fa8fb5/Arrrows.bmp"></figure><p><br></p><p><strong>Hint 1</strong>: The code generates an error that suggests the requests module does not have a <code>get</code>&nbsp; method.&nbsp;The requests library <strong>does </strong>actually have a <code>get</code>&nbsp; method.<br></p><p><img src="https://img-c.udemycdn.com/redactor/2016-12-22_21-52-51-f5c34714d4c40faaa04b0ff000fa8fb5/Arrrows.bmp"><br></p><p><strong>Hint 2</strong>: Import statements first look for a local file in the current directory (e.g., requests.py). If there is such a file, it imports that file and not the actual module.&nbsp;</p>
